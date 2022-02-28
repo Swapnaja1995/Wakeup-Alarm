@@ -1,0 +1,19 @@
+{
+  "name": "wakeup-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swapnaja1995/Wakeup-Alarm.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Swapnaja1995/Wakeup-Alarm/issues"
+  },
+  "homepage": "https://github.com/Swapnaja1995/Wakeup-Alarm#readme"
+}
